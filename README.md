@@ -1,6 +1,18 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# GIPS Reporting Tool
+
+## Overview
+
+This GIPS Reporting Tool is designed to assist Asset Managers and Asset Owners in managing their composites and ensuring compliance with Global Investment Performance Standards (GIPS®). Our tool streamlines the process of creating, maintaining, and reporting on GIPS composites, helping investment firms meet industry standards and enhance transparency.
+
+## Key Features
+
+- Composite Management: Create, edit, and manage GIPS composites with ease.
+- Performance Calculation: Accurate calculation of returns and other key metrics for the Composites.
+- Report Generation: Produce GIPS-compliant reports and presentations.
+- Data Integration: Import data from various sources and portfolio management systems.
+
 
 Currently, two official plugins are available:
 
